@@ -12,7 +12,7 @@ int main(){
     cin >> numero [i];
   }
   for (int i=1; i<d; i++) {
-    float n=maggiore (numero [i], numero [i-1]);
+    float n=maggiore (numero[i], numero[i-1]);
     if (n>x) {
       x=n;
     }
