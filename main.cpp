@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include "lib.h"
 float x=0;
 
 int main(){
